@@ -9,7 +9,7 @@ export interface IProduct {
 export const Product: IProduct = {
   id: 1,
   title: "Iphone 13 256gb",
-  price: 4813,
+  price: 200,
   description: [
     "Modo Cine con baja profundidad de campo y cambios de enfoque automáticos en tus videos.",
     "Sistema avanzado de dos cámaras de 12 MP (gran angular y ultra gran angular) con Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de video 4K HDR en Dolby Vision.",
